@@ -1,27 +1,179 @@
-# 💫 About Me:
-I’m currently working on Java, DSA, and AI/ML projects<br>👯 I’m looking to collaborate on AI, Machine Learning, and Open-Source projects<br>🤝 I’m looking for help with Advanced DSA and Backend Development<br>🌱 I’m currently learning Java, Data Structures & Algorithms, and ServiceNow<br>💬 Ask me about Java, Networking, AI/ML, and Electronics<br>⚡ Fun fact: I love turning ideas into real-world tech projects and learning new technologies.
+# Hi there 👋, I'm Vinayak Ojha
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vinayakojha3007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vinayak-ojha-6230532a2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Easy-Paramedic4792/) 
+### Electronics & Communication Engineering Student | AI & Machine Learning Enthusiast | Software Developer
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vinayakojha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vinayakojha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vinayakojha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Software+Development;Java+Developer;Always+Learning+New+Technologies" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vinayakojha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vinayakojha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vinayakojha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 B.Tech in Electronics & Communication Engineering
+
+🏫 Lakshmi Narain College of Technology, Bhopal
+
+💻 Passionate about Artificial Intelligence, Machine Learning, Java Development and Software Engineering.
+
+🚀 Building projects that solve real-world problems.
+
+📚 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Spring Boot
+- SQL
+
+🎯 Goal
+
+To become a Software Development Engineer while continuously exploring AI technologies and building impactful products.
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## Web Development
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 College Assistant AI
+
+An AI-powered assistant that allows students to interact with college documents using Large Language Models.
+
+### Features
+
+- PDF Question Answering
+- Semantic Search
+- Streamlit Interface
+- Fast Retrieval
+- AI Chat
+
+---
+
+## 🛰 AI-Based Satellite Navigation
+
+Research project focusing on AI-assisted satellite navigation and GNSS signal analysis.
+
+- Data Wrangling
+- Machine Learning
+- Feature Engineering
+- Signal Processing
+
+---
+
+## 💻 Java Full Stack Projects
+
+Hands-on Java development projects covering
+
+- OOP
+- Collections
+- JDBC
+- SQL
+- Spring Boot
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&row=1&column=7)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-compact)
+
+---
+
+# 🌱 Currently Working On
+
+✔ Data Structures & Algorithms
+
+✔ Java Development
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Generative AI
+
+✔ Spring Boot
+
+✔ Open Source Contributions
+
+---
+
+# 📫 Connect with Me
+
+LinkedIn:
+https://linkedin.com/in/vinayakojha
+
+Email:
+yourmail@gmail.com
+
+GitHub:
+https://github.com/vinayakojha
+
+---
+
+<div align="center">
+
+### ⭐ If you like my projects, don't forget to star them!
+
+</div>

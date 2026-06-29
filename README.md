@@ -126,7 +126,7 @@ Collection of Java projects covering
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakojha&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -136,7 +136,7 @@ Collection of Java projects covering
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakojha&theme=tokyo-night"/>
 
 </p>
 

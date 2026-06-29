@@ -146,7 +146,7 @@ Collection of Java projects covering
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vinayakojha&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 

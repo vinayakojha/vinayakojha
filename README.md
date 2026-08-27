@@ -11,9 +11,10 @@ Electronics & Communication Engineering Student | AI & Machine Learning Enthusia
 # 👨‍💻 About Me
 
 🎓 **B.Tech in Electronics & Communication Engineering**  
-🏫 **Lakshmi Narain College of Technology, Bhopal**  
+🏫 **Lakshmi Narain College of Technology, Bhopal (RGPV)**  
 💡 **Passionate about** Artificial Intelligence, Machine Learning, Java Development and Software Engineering  
 🚀 **Building projects** that solve real-world problems using AI and software technologies  
+📧 **Email:** ojhavinayak028@gmail.com
 
 ## 🌱 Currently Learning
 - Java & Spring Boot
@@ -55,87 +56,113 @@ To become a Software Development Engineer while contributing to impactful AI-pow
 
 ## 🎓 College Assistant AI
 AI-powered chatbot for interacting with college documents.
-- ✔ PDF Chat
-- ✔ Semantic Search
+- ✔ PDF Chat Interface
+- ✔ Semantic Search & Retrieval
 - ✔ Streamlit UI
 - ✔ AI Question Answering
 
 ## 🛰️ NavIC LSTM Research - Satellite Navigation
 Research project on orbital parameter prediction using LSTM networks.
 - ✔ Time Series Forecasting
-- ✔ Deep Learning (LSTM)
+- ✔ Deep Learning (LSTM Architecture)
 - ✔ Feature Engineering
 - ✔ Signal Processing
-- ✔ Published Research
+- ✔ Published Research Papers
 
 ## 💻 Java Full Stack Learning
 Collection of Java projects covering core concepts.
 - ✔ OOP Principles
 - ✔ Collections Framework
 - ✔ JDBC & Database
-- ✔ Problem Solving
-- ✔ DSA Implementation
+- ✔ Problem Solving & DSA
+- ✔ Advanced Concepts
 
 ## 🎯 ATS Resume Analyzer
 AI-powered resume analysis tool for job applications.
-- ✔ Full Stack Web App
-- ✔ ATS Score Calculation
-- ✔ Resume Optimization Tips
-- ✔ Real-time Feedback
+- ✔ Full Stack Web Application
+- ✔ ATS Score Calculation Engine
+- ✔ Resume Optimization Suggestions
+- ✔ Real-time Feedback System
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayakojha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/vinayakojha)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakojha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/vinayakojha)
-
-</div>
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinayakojha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=00bfff" width="49%" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakojha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00bfff" width="49%" />
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinayakojha&theme=tokyonight&hide_border=true)](https://github.com/vinayakojha)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinayakojha&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="60%"/>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayakojha&theme=tokyo-night&hide_border=true)](https://github.com/vinayakojha)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakojha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00bfff&point=00bfff&line=00bfff" alt="Contribution Graph" width="90%"/>
+</p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Achievements & Trophies
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinayakojha&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="90%"/>
+</p>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=vinayakojha&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/vinayakojha)
+---
 
-</div>
+# 📌 Additional GitHub Metrics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinayakojha&color=00BFFF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td><b>Total Repositories</b></td>
+    <td>20+</td>
+  </tr>
+  <tr>
+    <td><b>GitHub Followers</b></td>
+    <td><a href="https://github.com/vinayakojha?tab=followers"><img src="https://img.shields.io/github/followers/vinayakojha?style=social" alt="Followers"/></a></td>
+  </tr>
+  <tr>
+    <td><b>Total Stars Received</b></td>
+    <td><img src="https://img.shields.io/github/stars/vinayakojha?style=social" alt="Stars"/></td>
+  </tr>
+</table>
 
 ---
 
 # 🌐 Currently Exploring
 
-- 🔍 Advanced Java & Spring Boot
-- 📊 Machine Learning & Deep Learning
+- 🔍 Advanced Java & Spring Boot Framework
+- 📊 Machine Learning & Deep Learning Projects
 - 🤖 Generative AI & LLMs
-- 🔐 Cybersecurity
+- 🔐 Cybersecurity & Ethical Hacking
 - 🛰️ GNSS & Satellite Systems
 - 💻 Open Source Contribution
-- 🏗️ System Design & Architecture
+- 🏗️ System Design & Microservices Architecture
+
+---
+
+# 🎓 Education & Experience
+
+| Qualification | Details |
+|---|---|
+| **Degree** | B.Tech in Electronics & Communication Engineering |
+| **College** | Lakshmi Narain College of Technology (LNCT), Bhopal |
+| **University** | Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV) |
+| **Expected Graduation** | 2025 |
+| **Research Focus** | NavIC LSTM, Satellite Navigation, AI/ML |
 
 ---
 
@@ -151,8 +178,8 @@ AI-powered resume analysis tool for job applications.
 <a href="mailto:ojhavinayak028@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/vinayakojha?tab=followers" target="_blank">
-<img src="https://img.shields.io/github/followers/vinayakojha?style=for-the-badge&logo=github&label=Followers"/>
+<a href="https://github.com/vinayakojha" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -162,16 +189,33 @@ AI-powered resume analysis tool for job applications.
 
 > "The best way to predict the future is to build it." - _Peter Drucker_
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+# 🎯 Quick Stats Summary
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **Languages Used** | Python, Java, C, C++, JavaScript |
+| **ML Frameworks** | TensorFlow, PyTorch, Scikit-learn |
+| **Databases** | MySQL, MongoDB |
+| **Current Focus** | Full-Stack Development & ML |
+
+</div>
+
 ---
 
 <div align="center">
 
-### 📊 Profile Views & Stats
+### ⭐ If you like my work, consider starring my repositories!
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinayakojha&color=00BFFF&style=flat-square)
+**[View My GitHub Profile →](https://github.com/vinayakojha)**
 
-⭐ **If you like my work, consider starring my repositories!**
-
-[View My GitHub Profile](https://github.com/vinayakojha)
+*Last Updated: August 2026*
 
 </div>
